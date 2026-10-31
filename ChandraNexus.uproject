@@ -1,0 +1,1 @@
+{"FileVersion":3,"EngineAssociation":"5.4","Category":"Simulation","Description":"Whole Moon prototype","Modules":[{"Name":"ChandraNexus","Type":"Runtime","LoadingPhase":"Default"}],"Plugins":[{"Name":"PythonScriptPlugin","Enabled":true},{"Name":"EditorScriptingUtilities","Enabled":true}]}
